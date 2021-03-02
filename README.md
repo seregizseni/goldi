@@ -1,2 +1,2 @@
 # goldi.github.io
-goldi
+Tanárúr nem tudom, hogy kell ezt :(
